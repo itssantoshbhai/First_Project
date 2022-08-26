@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,500;1,500&family=Montserrat:wght@800&display=swap');
+
+body{
+    font-family:Kanit ;
+    height: 100vh;
+}
+nav .list{
+    flex: 2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    list-style-type: none;
+   
+}
+
+.navbar-container img{
+    margin-top: 4%;
+    margin-left: 6%;
+    height: 50px;
+}
+nav .list{
+   
+    margin-top: -3%;
+    margin-left: 27%;
+    margin-right: 37%;
+}
+nav .list-item{
+    font-size: 25px;
+    justify-content: space-between;
+}
+nav .button-group{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 77%;
+    margin-right: 10%;
+    margin-top: -4%;
+}
+nav div .search-icon{
+    margin-top: 5px;
+}
+nav button{
+    background-color: #ffffff;
+    padding: 6px 35px;
+    border-radius: 10px;
+}
+nav .nav-button{
+    font-size:20px;
+}
+.hero-container{
+    display: flex;
+}
+
+.hero-container .rectangular-bars{
+    position: absolute;
+    margin-top: 16%;
+    margin-left: 12%;
+    height: 250px;
+}
+.hero-container div .man-image{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: -38%;
+    height: 360px;
+}
+div .globe{
+    margin-left: 40%;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.globe-bhai{
+    height: 50px;
+}
+.star{
+    position: absolute;
+    margin-left: 85%;
+    margin-top: 5%;
+}
+.star-bhai{
+    height: 50px;
+}
+.star-bro{
+
+    margin-left: -1700%;
+    margin-top: 800%;
+    height: 40px;
+}
+.hero-heading{
+    margin-left: 5%;
+    letter-spacing: 4px;
+    margin-top: 20%;
+    font-size: 50px;
+}
+.hero-description{
+
+    font-size: 12px;
+    margin-left: 12%;
+    margin-right: 24%;
+    text-align: center;
+}
+div .button-email{
+    margin-left: 22%;
+    margin-right: 3%;
+    margin-top: 5%;
+    padding: 5px 30px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+div .button-join{
+    background-color: black;
+    padding: 5px 30px;
+    border-radius: 10px;
+    font-size: 15px;
+    color: #ffffff;
+}
+.contact-heading{
+    margin-left: 36%;
+    font-size: 18px;
+    margin-top: 6%;
+    color: grey;
+    word-spacing: 6px;
+    letter-spacing: 1px;
+}
+div .icons{
+    margin-left: 32%;
+    margin-top: -2%;
+}
+.facebook{
+    height: 30px;
+    margin: auto 5px;
+}
+.messenger{
+    height: 30px;
+    margin: auto 5px;
+}
+.insta{
+    height: 30px;
+    margin: auto 5px;
+}
+.sup{
+    height: 30px;
+    margin: auto 5px;
+}
