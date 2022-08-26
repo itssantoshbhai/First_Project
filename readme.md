@@ -3,7 +3,7 @@
 ## This is Project-1
 
 Live Link 🔗
-https://interior-work-10.netlify.app/
+https://web-design-pr-1.netlify.app/
 
 ## SNAP
 
